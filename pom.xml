@@ -11,6 +11,7 @@
     <modules>
         <module>mrjar-spi-provider</module>
         <module>mrjar-spi-model</module>
+        <module>mrjar-spi-main</module>
     </modules>
 
     <properties>
