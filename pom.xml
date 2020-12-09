@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>mrjar-spi-provider</module>
+        <module>mrjar-spi-model</module>
     </modules>
 
     <properties>

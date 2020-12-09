@@ -1,3 +1,4 @@
-module org.bsc {
-    exports org.bsc;
+module org.bsc.service {
+
+    exports org.bsc.service;
 }

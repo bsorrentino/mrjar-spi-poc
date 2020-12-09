@@ -1,4 +1,4 @@
-package org.bsc;
+package org.bsc.service;
 
 public interface MyService {
 
