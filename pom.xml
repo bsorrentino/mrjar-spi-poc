@@ -9,8 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>mrjar-spi-provider</module>
-        <module>mrjar-spi-model</module>
+        <module>mrjar-spi-service</module>
+        <module>mrjar-spi-service-impl</module>
         <module>mrjar-spi-main</module>
     </modules>
 

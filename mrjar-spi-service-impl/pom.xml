@@ -9,12 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>mrjar-spi-model</artifactId>
+    <artifactId>mrjar-spi-service-impl</artifactId>
 
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>mrjar-spi-provider</artifactId>
+            <artifactId>mrjar-spi-service</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>

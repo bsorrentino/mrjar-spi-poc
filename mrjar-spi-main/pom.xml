@@ -14,14 +14,14 @@
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>mrjar-spi-provider</artifactId>
+            <artifactId>mrjar-spi-service-impl</artifactId>
             <version>${project.version}</version>
+            <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>
-            <artifactId>mrjar-spi-model</artifactId>
+            <artifactId>mrjar-spi-service</artifactId>
             <version>${project.version}</version>
-            <scope>runtime</scope>
         </dependency>
 
     </dependencies>
