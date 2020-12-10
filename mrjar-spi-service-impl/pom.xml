@@ -41,8 +41,10 @@
                                     <goal>compile</goal>
                                 </goals>
                                 <configuration>
+                                    <!--
                                     <source>1.8</source>
                                     <target>1.8</target>
+                                    -->
                                     <compileSourceRoots>
                                         <compileSourceRoot>${project.basedir}/src/main/java</compileSourceRoot>
                                     </compileSourceRoots>
